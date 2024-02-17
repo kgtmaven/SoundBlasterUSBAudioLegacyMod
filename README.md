@@ -25,9 +25,9 @@ This driver is designed to solve problems that older devices have with newer ope
    - ![VirtualBox_Win10_11_02_2024_17_15_01](https://github.com/kgtmaven/SoundBlasterUSBAudioLegacyMod/assets/24592498/e2b536ba-74ce-49bc-9c75-9f4035b20a8c)
    - This is part of the Sound Blaster X-Fi MB2. so i implemented it together.
 
- - DTS Connect Encoder / DTS Neo:PC Decoder and Dolby Digital Live for Sound Blaster Audigy 2 NX
+ - DTS Connect Encoder / DTS Neo:PC Decoder and Dolby Digital Live for Sound Blaster Audigy 2 NX and Sound Blaster Digital Music SX
    - ![VirtualBox_Win10_11_02_2024_17_10_48](https://github.com/kgtmaven/SoundBlasterUSBAudioLegacyMod/assets/24592498/902b9685-4acf-4a0f-935e-3e280e233be7)
-   - Sound Blaster Audigy 2 NX does not originally support DDL or DTS Connect. This driver supports these as additional features.
+   - Sound Blaster Audigy 2 NX and Sound Blaster Digital Music SX does not originally support DDL or DTS Connect. This driver supports these as additional features.
 
 
 <br/>
