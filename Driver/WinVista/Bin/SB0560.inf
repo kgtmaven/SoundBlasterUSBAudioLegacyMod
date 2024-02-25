@@ -628,7 +628,7 @@ AddService = ksaud, 0x00000002, KSAUD_Service_Inst
 AddService = MBfilt, 0x00000000, Filter_Service_Install_ntamd64
 
 [SB0560_Device.ntamd64.HW]
-AddReg=SB0560HW.AddReg
+AddReg=SB0560HW.AddReg, FilterHW.AddReg
 DelReg=KSAUDHW.DelReg
 
 ;; Register Dlls **********************************************************************************
