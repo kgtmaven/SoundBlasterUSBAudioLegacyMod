@@ -13,6 +13,7 @@ This driver is designed to solve problems that older devices have with newer ope
 ## Supported Devices
  - Sound Blaster Audigy 2 NX
  - Sound Blaster Digital Music SX
+ - Sound Blaster X-Fi Notebook
 
 <br/>
 
