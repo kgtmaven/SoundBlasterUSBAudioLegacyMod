@@ -14,6 +14,7 @@ This driver is designed to solve problems that older devices have with newer ope
  - Sound Blaster Audigy 2 NX
  - Sound Blaster Digital Music SX
  - Sound Blaster Live! 24-bit External
+ - Sound Blaster MP3+ / Connect / Digital Music / Digital Music PX
  - Sound Blaster X-Fi Notebook
 
 <br/>
