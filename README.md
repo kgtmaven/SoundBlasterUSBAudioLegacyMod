@@ -2,7 +2,7 @@
 
 Sound Blaster USB Audio Legacy Drivers for oldest devices.
 
-Such as Sound Blaster Audigy 2 NX, Sound Blaster Digital Music SX and etc.
+Such as Sound Blaster Audigy 2 NX, Sound Blaster Digital Music SX, Sound Blaster Live! 24-bit External and etc.
 
 This driver is designed to solve problems that older devices have with newer operating systems and to provide additional features.
 
@@ -13,6 +13,7 @@ This driver is designed to solve problems that older devices have with newer ope
 ## Supported Devices
  - Sound Blaster Audigy 2 NX
  - Sound Blaster Digital Music SX
+ - Sound Blaster Live! 24-bit External
  - Sound Blaster X-Fi Notebook
 
 <br/>
