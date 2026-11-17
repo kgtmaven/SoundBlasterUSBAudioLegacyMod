@@ -34,7 +34,6 @@ This driver is designed to solve problems that older devices have with newer ope
 <br/>
 
 ## Notes
- - To use the Sound Blater X-Fi MB2 and Sound Blaster Cinema, additional Activation is required. (KGAs something, do it your self.)
  - To use the Dolby Digital Live and DTS Connect, 'Dolby Digital Live & DTS Connect Pack' Software and additional Activation is required. (KGAs something, do it your self.)
  - To use Dolby Digital or DTS Interactive output on Sound Blaster MP3+ / Connect / Digital Music / Digital Music PX, you must change to 'Digital Only' mode.
  - When installing the driver, you must boot in 'Disable driver signature enforcement' mode.
