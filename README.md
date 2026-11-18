@@ -23,6 +23,9 @@ This driver is designed to solve problems that older devices have with newer ope
 <br/>
 
 ## Additional Features
+ - X-Fi CMSS-3D / X-Fi Crystalizer
+   - Now you can use X-Fi CMSS-3D or X-Fi Crystalizer effects even on older sound cards!
+
  - SBX Pro Studio / THX TruStudio Pro
    - Now you can use THX TruStudio Pro or SBX Pro Studio effects even on older sound cards!
 
