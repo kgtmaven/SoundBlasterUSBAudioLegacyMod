@@ -24,9 +24,11 @@ This driver is designed to solve problems that older devices have with newer ope
 
 ## Additional Features
  - X-Fi CMSS-3D / X-Fi Crystalizer
+   - <img width="1152" height="864" alt="303906678-4c022737-9a99-4e83-a3bb-eb33c0dea12f" src="https://github.com/user-attachments/assets/e1970ff2-d84b-4b22-a2e5-fdc250284964" />
    - Now you can use X-Fi CMSS-3D or X-Fi Crystalizer effects even on older sound cards!
 
  - SBX Pro Studio / THX TruStudio Pro
+   - <img width="1152" height="864" alt="303906722-e2b536ba-74ce-49bc-9c75-9f4035b20a8c" src="https://github.com/user-attachments/assets/2e8fd1eb-009b-42fa-a8d3-e50e8223bf88" />
    - Now you can use THX TruStudio Pro or SBX Pro Studio effects even on older sound cards!
 
  - DTS Connect Encoder / DTS Neo:PC Decoder and Dolby Digital Live for Sound Blaster Audigy 2 NX, Digital Music SX, Live! 24-bit External, MP3+ / Connect / Digital Music / Digital Music PX
